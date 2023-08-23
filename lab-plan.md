@@ -9,9 +9,9 @@
 | 5 | [Memory Management][5] | Pass/fail | TA Approval | Group | October 18 |
 | 6 | [Concurrency and Parallelism][6] | Pass/fail | TA Approval | Group | November 1 |
 
-[1]: https://github.com/dat320-2022/assignments/tree/main/lab1
-[2]: https://github.com/dat320-2022/assignments/tree/main/lab2
-[3]: https://github.com/dat320-2022/assignments/tree/main/lab3
-[4]: https://github.com/dat320-2022/assignments/tree/main/lab4
-[5]: https://github.com/dat320-2022/assignments/tree/main/lab5
-[6]: https://github.com/dat320-2022/assignments/tree/main/lab6
+[1]: https://github.com/dat320-2023/assignments/tree/main/lab1
+[2]: https://github.com/dat320-2023/assignments/tree/main/lab2
+[3]: https://github.com/dat320-2023/assignments/tree/main/lab3
+[4]: https://github.com/dat320-2023/assignments/tree/main/lab4
+[5]: https://github.com/dat320-2023/assignments/tree/main/lab5
+[6]: https://github.com/dat320-2023/assignments/tree/main/lab6
