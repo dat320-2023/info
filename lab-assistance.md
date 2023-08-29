@@ -10,5 +10,5 @@
 | 10-12 |                                                  |                                                   |           |          |                                                   |
 | 12-14 | Rana, Jostein, Vahid                             |                                                   |           |          | _Daniel_, _Rana_, _Jostein_                       |
 | 14-16 | Rana, Lukasz, Jostein, Vahid                     |                                                   |           |          | _Daniel_, _Rana_, _Jostein_, _Lukasz_             |
-| 16-18 |                                                  | Daniel, Lukasz                                    |           |          |                                                   |
-| 18-20 |                                                  | Daniel, Lukasz                                    |           |          |                                                   |
+| 16-18 |                                                  |                                                   | Daniel, Lukasz          |          |                                                   |
+| 18-20 |                                                  |                                                   | Daniel, Lukasz          |          |                                                   |
