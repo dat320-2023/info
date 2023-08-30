@@ -1,1 +1,0 @@
-The bin folder is here just for the structure, its content will not be shared in repo. On your local machine this folder will contain the binary files that you have compiled your self, and which you can run locally. 
