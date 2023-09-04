@@ -79,11 +79,6 @@ This is a tentative lecture plan, it may change during the semester.
 |    |       | Tue |    | [Recap]                                                                              |
 |    | 08.11 | Wed |    | [Recap]                                                                              |
 |    |       | Wed |    | [Questions]                                                                          |
-|----|-------|-----|----|--------------------------------------------------------------------------------------|
-| 46 | 14.11 | Tue |    | [Recap]                                                                              |
-|    |       | Tue |    | [Recap]                                                                              |
-|    | 15.11 | Wed |    | [Recap]                                                                              |
-|    |       | Wed |    | [Questions]                                                                          |
 
 The following chapters are self study topics:
 38,39,40
