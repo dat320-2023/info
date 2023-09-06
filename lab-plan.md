@@ -2,7 +2,7 @@
 
 | Lab | Topic                                                     | Grading          | Approval             | Submission              | Deadline          |
 |:---:|-----------------------------------------------------------|------------------|----------------------|-------------------------|-------------------|
-| 1 | [Introduction to Unix][1] | Pass/fail | Automatic | Individually | September 9 |
+| 1 | [Introduction to Unix][1] | Pass/fail | Automatic | Individually | September 16 |
 | 2 | [Introduction to the C Programming Language][2] | Pass/fail | Automatic | Individually | September 16 |
 | 3 | [Introduction to Go Programming][3] | Pass/fail | Automatic | Individually | September 23 |
 | 4 | [Scheduling and Metrics][4] | Pass/fail | TA Approval | Group | October 7 |
