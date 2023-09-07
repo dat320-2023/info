@@ -13,12 +13,12 @@ This is a tentative lecture plan, it may change during the semester.
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
 | 34 | 22.08 | Tue |    | [Course Intro]                                                                       |
 |    |       | Tue |    | [Lab Intro] (demo)                                                                   |
-|    | 23.08 | Wed | 2  | [Introduction to Operating Systems]                                  |
+|    | 23.08 | Wed | 2  | [Introduction to Operating Systems]                                                  |
 |    |       | Wed | 4  | [Abstraction: The Process]                                                           |
 |    |       | Wed | 5  | [Process API]                                                                        |
 |    |       | Wed |    | [Some C coding] (demo)                                                               |
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
-|35.36| 29.08 | Tue | 6  | [Mechanism: Limited Direct Execution]                                                |
+|35.36| 29.08 | Tue | 6  | [Mechanism: Limited Direct Execution]                                               |
 |    |       | Tue | 7  | [Scheduling: Introduction]                                                           |
 |    | 30.09 | Wed |    | [Some Go coding] (demo)                                                              |
 |    |       | Wed | 8  | [Scheduling: Multi-Level Feedback Queue]                                             |
@@ -38,22 +38,22 @@ This is a tentative lecture plan, it may change during the semester.
 |    |       | Wed | 21 | [Beyond Physical Memory: Mechanisms]                                                 |
 |    |       | Wed |    | [Test questions]                                                                     |
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
-| 39 | 19.09 | Tue |    | [Recap]                                                                              |
-|    |       | Tue |    | [Recap]                                                                              |
-|    | 20.09 | Wed |    | [Recap]                                                                              |
-|    |       | Wed |    | [Questions]                                                                          |
-|----|-------|-----|----|--------------------------------------------------------------------------------------|
-| 40 | 26.09 | Tue | 26 | [Concurrency: Introduction]                                                          |
+| 39 | 26.09 | Tue | 26 | [Concurrency: Introduction]                                                          |
 |    |       | Tue | 27 | [Thread API]                                                                         |
 |    | 27.09 | Wed |    | [Rob Pike: Go Concurrency Patterns][1]                                               |
 |    |       | Wed |    | [Live Coding: Shared Integer w/Mutual Exclusion]                                     |
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
-| 41 | 03.10 | Tue | 28 | [Locks]                                                                              |
+| 40 | 03.10 | Tue | 28 | [Locks]                                                                              |
 |    |       | Tue | 29 | [Lock-based data structures]                                                         |
 |    | 04.10 | Wed | 30 | [Condition Variables]                                                                |
 |    |       | Wed | 31 | [Semaphores]                                                                         |
 |    |       | Wed | 32 | [Common Concurrency Problems]                                                        |
 |    |       | Wed | 33 | [Event-based Concurrency]                                                            |
+|----|-------|-----|----|--------------------------------------------------------------------------------------|
+| 41 | 19.09 | Tue |    | [Recap]                                                                              |
+|    |       | Tue |    | [Recap]                                                                              |
+|    | 20.09 | Wed |    | [Recap]                                                                              |
+|    |       | Wed |    | [Questions]                                                                          |
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
 | 42 | 10.10 | Tue | 10 |  Multiprocessor Scheduling                                                             |
 |    |       | Tue |    | [Concurrency in go]                                                                  |
