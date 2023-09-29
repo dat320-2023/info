@@ -43,15 +43,15 @@ This is a tentative lecture plan, it may change during the semester.
 |    |   | Wed |    | [Recap and coding]                                                                   |
 |    |       | Wed |    | [Questions]                                                                          |
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
-| 40 |  | Tue | 26 | [Concurrency: Introduction]                                                          |
+| 40 |  | Tue |    | [Recap / Exercise]                                                                              |
+|    |       | Tue |    | [Recap / Exercise]                                                                            |
+|    |  | Wed |    | [Recap / Exercise]                                                                             |
+|    |       | Wed |    | [Recap / Exercise]                                                                       |
+|----|-------|-----|----|--------------------------------------------------------------------------------------|
+| 41 |  | Tue | 26 | [Concurrency: Introduction]                                                          |
 |    |       | Tue | 27 | [Thread API]                                                                         |
 |    |  | Wed |    | [Rob Pike: Go Concurrency Patterns][1]                                               |
 |    |       | Wed |    | [Live Coding: Shared Integer w/Mutual Exclusion]                                     |
-|----|-------|-----|----|--------------------------------------------------------------------------------------|
-| 41 |  | Tue |    | [Recap]                                                                              |
-|    |       | Tue |    | [Recap]                                                                              |
-|    |  | Wed |    | [Recap]                                                                              |
-|    |       | Wed |    | [Questions]                                                                          |
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
 | 42 |  | Tue | 28 | [Locks]                                                                              |
 |    |       | Tue | 29 | [Lock-based data structures]                                                         |
@@ -59,26 +59,25 @@ This is a tentative lecture plan, it may change during the semester.
 |    |       | Wed | 31 | [Semaphores]                                                                         |
 |    |       | Wed | 32 | [Common Concurrency Problems]                                                        |
 |    |       | Wed | 33 | [Event-based Concurrency]                                                            |
+|    |  | Wed |    |                                                                                      |
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
-| 43 |  | Tue | 10 | Multiprocessor Scheduling                                                            |
+|  43  |  |  |    | [No Lecture]                                                                 |
+|----|-------|-----|----|--------------------------------------------------------------------------------------|
+| 44 |  | Tue | 10 | Multiprocessor Scheduling                                                            |
 |    |       | Tue |    | [Concurrency in go]                                                                  |
 |    |  | Wed |    | [Concurrency in go ]                                                                 |
 |    |  | Wed |    |                                                                                      |
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
-| 44 |  | Tue | 36 | [I/O Devices]                                                                        |
+| 45 |  | Tue | 36 | [I/O Devices]                                                                        |
 |    |       | Tue |    |                                                                                      |
 |    |  | Wed | 37 | [Hard Disk Drives]                                                                   |
 |    |       | Wed |    |                                                                                      |
-|----|-------|-----|----|--------------------------------------------------------------------------------------|
-| 45 |  | Tue |    | [Recap]                                                                              |
-|    |       | Tue |    | [Recap]                                                                              |
-|    |  | Wed |    | [Recap]                                                                              |
-|    |       | Wed |    | [Questions]                                                                          |
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
 | 46 |  | Tue |    | [Recap]                                                                              |
 |    |       | Tue |    | [Recap]                                                                              |
 |    |  | Wed |    | [Recap]                                                                              |
 |    |       | Wed |    | [Questions]                                                                          |
+
 
 The following chapters are self study topics:
 38,39,40
