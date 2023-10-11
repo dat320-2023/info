@@ -46,8 +46,9 @@ func consume() {
 		items = items[1:]
 		consume_count += 1
 		fmt.Printf("Consumed item id= %d, total items consumed so far %d \n", item, consume_count)
-		cond.Signal()
 		cond.L.Unlock()
+		cond.Signal()
+
 		time.Sleep(time.Millisecond * 100)
 	}
 	Wg.Done()

@@ -9,19 +9,27 @@ import (
 var counter = 0
 
 func incr() {
-	for i := 0; i < 1000; i++ {
 
-		counter++
+	for i := 0; i < 1000; i++ {
+		Mu.Lock()
+		counter++ // critical section
+		Mu.Unlock()
 
 	}
+	fmt.Println("incr done", counter)
+
 	Wg.Done()
 
 }
 func decr() {
-	for i := 0; i < 1000; i++ {
 
-		counter--
+	for i := 0; i < 1000; i++ {
+		Mu.Lock()
+		counter-- //critical section
+		Mu.Unlock()
 	}
+	fmt.Println("Decr done", counter)
+
 	Wg.Done()
 
 }
