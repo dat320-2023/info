@@ -15,27 +15,27 @@ func NewSafeCounter() *SafeCounter {
 	return &sc
 }
 
-func (sc *SafeCounter) incr() {
+func (sc *SafeCounter) increment() {
 	sc.Mu.Lock()
 	sc.Val++
 	sc.Mu.Unlock()
 
 }
-func (sc *SafeCounter) decr() {
+func (sc *SafeCounter) decrement() {
 	sc.Mu.Lock()
 	sc.Val--
 	sc.Mu.Unlock()
 }
 
-func (sc *SafeCounter) Incr(iter int) {
+func (sc *SafeCounter) Increment(iter int) {
 	for i := 0; i < iter; i++ {
-		sc.incr()
+		sc.increment()
 	}
 	sc.WG.Done()
 }
-func (sc *SafeCounter) Decr(iter int) {
+func (sc *SafeCounter) Decrement(iter int) {
 	for i := 0; i < iter; i++ {
-		sc.decr()
+		sc.decrement()
 	}
 	sc.WG.Done()
 }
