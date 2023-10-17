@@ -21,14 +21,14 @@ func incr() {
 	Wg.Done()
 
 }
-func decr() {
+func decrement() {
 
 	for i := 0; i < 1000; i++ {
 		Mu.Lock()
 		counter-- //critical section
 		Mu.Unlock()
 	}
-	fmt.Println("Decr done", counter)
+	fmt.Println("Decrement done", counter)
 
 	Wg.Done()
 
@@ -37,7 +37,7 @@ func decr() {
 func RunIncrDec() {
 	Wg.Add(2)
 	go incr()
-	go decr()
+	go decrement()
 	Wg.Wait()
 	fmt.Println("done !", counter)
 
