@@ -31,9 +31,9 @@ func main() {
 	//go sc.Incr(100)
 	//sc.WG.Wait()
 	//fmt.Println("Final count=", sc.Val)
-	//demos.RunAgentDemo()
-	RunCounterWithTAS()
-	fmt.Println("----------------------------")
-	RunCounterWithCAS()
+	demos.RunAgentDemo()
+	//RunCounterWithTAS()
+	//fmt.Println("----------------------------")
+	//RunCounterWithCAS()
 
 }
