@@ -52,7 +52,6 @@ func (sc *SafeCounter) CompareAndSwap(expected int, new int) int {
 		if sc.Print {
 			fmt.Println("Val ", sc.Val, "-->", new, "Good =", new == (sc.Val+1))
 		}
-
 		sc.Val = new
 	}
 

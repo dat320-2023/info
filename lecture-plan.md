@@ -70,7 +70,7 @@ This is a tentative lecture plan, it may change during the semester.
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
 | 45 |  | Tue | 36 | [I/O Devices]                                                                        |
 |    |       | Tue |    |                                                                                      |
-|    |  | Wed | 37 | [Hard Disk Drives]                                                                   |
+|    |  | Wed |  | [Coding and recap]                                                                   |
 |    |       | Wed |    |                                                                                      |
 |----|-------|-----|----|--------------------------------------------------------------------------------------|
 | 46 |  | Tue |    | [Recap]                                                                              |
@@ -78,9 +78,8 @@ This is a tentative lecture plan, it may change during the semester.
 |    |  | Wed |    | [Recap]                                                                              |
 |    |       | Wed |    | [Questions]                                                                          |
 
-
-The following chapters are self study topics:
-38,39,40
+The following chapters are NOT part of the syllabus:
+9.7,10.6, 23,28.16, 33, 37-51
 
 [1]: https://youtu.be/f6kdp27TYZs
 
@@ -88,7 +87,7 @@ The following chapters are self study topics:
 
 - published slides and code snippets available on [info](https://github.com/dat320-2023/info/)
 - various videos and corresponding slides (see below) and
-- lab assignments 1-7.
+- lab assignments 1-6.
 
 ## Videos
 

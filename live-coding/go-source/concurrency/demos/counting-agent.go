@@ -1,11 +1,9 @@
 package demos
-
 import (
 	"fmt"
 	"math/rand"
 	"time"
 )
-
 type SearchingAgent struct {
 	Link       chan int
 	Multiple   int
@@ -14,7 +12,6 @@ type SearchingAgent struct {
 	Name       string
 	Exit       chan int
 }
-
 func (ag *SearchingAgent) Search() {
 	v := 0
 	for i := 0; i < ag.Iterations; i++ {
@@ -40,7 +37,6 @@ func (ag *SearchingAgent) Search() {
 	ag.Link <- 1
 	ag.Exit <- 1
 }
-
 func RunAgentDemo() {
 	link := make(chan int)
 	exit := make(chan int)
